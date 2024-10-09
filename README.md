@@ -1,4 +1,4 @@
-# EX8-Implementation of Hierarchical Clustering
+# EX8-Implementation of Hierarchical Clustering using linkage methods
 ## AIM:
 To implement Hierarchical Clustering using single and complete linkage method
 
